@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## String Matching
 |  |
 | ------- |
