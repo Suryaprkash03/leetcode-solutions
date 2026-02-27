@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0896-monotonic-array](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0896-monotonic-array) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Hash Table
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,4 +68,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0682-baseball-game) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+## Matrix
+|  |
+| ------- |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 <!---LeetCode Topics End-->
