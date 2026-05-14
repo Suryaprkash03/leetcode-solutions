@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0896-monotonic-array](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
