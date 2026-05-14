@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1929-concatenation-of-array](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2784-check-if-array-is-good](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1041-robot-bounded-in-circle](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/1041-robot-bounded-in-circle) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1929-concatenation-of-array](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Matrix
 |  |
 | ------- |
