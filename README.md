@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0896-monotonic-array](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1470-shuffle-the-array](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1572-matrix-diagonal-sum](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
