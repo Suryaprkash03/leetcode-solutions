@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2784-check-if-array-is-good](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Tree
 |  |
 | ------- |
