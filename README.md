@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0066-plus-one) |
 | [1041-robot-bounded-in-circle](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/1041-robot-bounded-in-circle) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Stack
 |  |
 | ------- |
@@ -138,8 +139,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+## Depth-First Search
+|  |
+| ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 <!---LeetCode Topics End-->
