@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
