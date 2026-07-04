@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -181,4 +184,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
