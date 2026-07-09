@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0567-permutation-in-string](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
+| [0567-permutation-in-string](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1041-robot-bounded-in-circle](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/1041-robot-bounded-in-circle) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Suryaprkash03/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Greedy
 |  |
